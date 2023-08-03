@@ -1,0 +1,17 @@
+{
+  "name": "bitbucket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ikholiavko",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^3.0.1",
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.6"
+  }
+}
